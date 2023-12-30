@@ -7,7 +7,9 @@ Get Started:
 
 To Start:
 cd shipkart-eccomerceWebsite
+
 npm install
+
 npm start
 
 
